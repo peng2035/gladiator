@@ -13,6 +13,7 @@
         <module>gladiator-server</module>
         <module>gladiator-web</module>
         <module>gladiator-common</module>
+        <module>gladiator-test</module>
     </modules>
 
 
