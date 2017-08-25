@@ -25,7 +25,6 @@
 
     <dependencyManagement>
         <dependencies>
-
             <!--spring framework-->
             <dependency>
                 <groupId>org.springframework</groupId>
