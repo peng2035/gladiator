@@ -1,0 +1,10 @@
+.idea/
+target/
+tmp/
+*.iml
+*.log
+.settings/
+.classpath
+.project
+*.rdb
+.snapshot
