@@ -11,5 +11,18 @@
 
     <artifactId>gladiator-test</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.bobby.peng</groupId>
+            <artifactId>gladiator-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.bobby.peng</groupId>
+            <artifactId>gladiator-client</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.bobby.peng</groupId>
+            <artifactId>gladiator-server</artifactId>
+        </dependency>
+    </dependencies>
 </project>
