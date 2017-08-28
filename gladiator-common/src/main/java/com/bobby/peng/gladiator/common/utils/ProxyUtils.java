@@ -1,4 +1,4 @@
-package com.bobby.peng.gladiator.common.proxy;
+package com.bobby.peng.gladiator.common.utils;
 
 import sun.misc.ProxyGenerator;
 
